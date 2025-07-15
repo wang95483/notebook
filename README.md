@@ -1,4 +1,4 @@
-# notebook
+# Brief Self-introduction
 Hi, this is Haoling Wang, an economic student in UNNC. Welcome to see you.<br>
 
 These are some economic notebooks created by myself when studying economics. Hope to help some of the students.<br>
