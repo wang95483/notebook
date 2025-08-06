@@ -7,9 +7,8 @@ The content of this repository is shared exclusively for academic and educationa
 
 Thank you for respecting the academic integrity and the intended purpose of this material.<br>
 
-"""
-\textcolor{red}{If the PDF does not appear when you click and browse the file, download it directly, since there is no code in the file.}
-"""
-<br>
-
 If you are willing to communicate with me, I am patient and open for any questions related to academic questions or future study. You can email me first: hmyhw8@nottingham.edu.cn (it will expire in 2026/7) or wang95483@gmail.com (my personal email). I will respond to you as soon as possible. Waiting for any friendly email.
+
+
+
+### If the PDF does not appear when you click and browse the file, download it directly, since there is no code in the file.
